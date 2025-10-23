@@ -1,3 +1,35 @@
+1
+indentificação
+Sumário: Descrição das ações do Use Case.
+Ator-Primário: Ator que inicia o processo.
+Ator-Secundário: Ator que participa do processo, mas não o inicia.
+Pré-Requisito: O que é necessário para realizar o Use Case
+Fluxo Principal: Descrição numerada passo a passo da interação entre o usuário e o
+sistema.
+Fluxo Alternativo: Descrição numerada passo a passo da interação entre o usuário e o
+sistema, quando o sistema apresenta uma maneira diferente do fluxo principal.
+Fluxo de Exceção: Descrição dos erros e exceções do Fluxo Principal e Fluxo Alterativo.
+Pós-Condição: O que acontece após a execução dos fluxos de trabalho
+Regras de Negócios: Identificação de todas as regras de negócio que podem interferir
+no Use Case.
+-------------------------------------------------------------------------------------------------------------------------
+2
+atualizar os dados
+Sumário: Descrição das ações do Use Case.
+Ator-Primário: Ator que inicia o processo.
+Ator-Secundário: Ator que participa do processo, mas não o inicia.
+Pré-Requisito: O que é necessário para realizar o Use Case
+Fluxo Principal: Descrição numerada passo a passo da interação entre o usuário e o
+sistema.
+Fluxo Alternativo: Descrição numerada passo a passo da interação entre o usuário e o
+sistema, quando o sistema apresenta uma maneira diferente do fluxo principal.
+Fluxo de Exceção: Descrição dos erros e exceções do Fluxo Principal e Fluxo Alterativo.
+Pós-Condição: O que acontece após a execução dos fluxos de trabalho
+Regras de Negócios: Identificação de todas as regras de negócio que podem interferir
+no Use Case.
+-------------------------------------------------------------------------------------------------------------------------
+3
+visualizar os produtos
 Diagrama de Caso de Uso – Formato Textual Expandido
 
 SISTEMA E-COMMERCE - LOJA DE MÓVEIS
@@ -33,4 +65,8 @@ Fluxo de Exceção:
 Pós-Condição: O que acontece após a execução dos fluxos de trabalho
 
 Regras de Negócios: Identificação de todas as regras de negócio que podem interferir
+
 no Use Case.
+
+-------------------------------------------------------------------------------------------------------------------------
+
