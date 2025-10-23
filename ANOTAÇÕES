@@ -1,0 +1,7 @@
+#Engenharia de Software -- anotações
+#diagrama de classe -- UML
+#------ <<ESTENDE>> // para cada use case fazer doc textual
+#FORMATO TEXTUAL: Detalhado ou Resumido -- EXPANDIDO
+#ator primario é quem inicia o processo
+#ator secundario é quem usa, nao quem inicia
+#Fluxo principal 
