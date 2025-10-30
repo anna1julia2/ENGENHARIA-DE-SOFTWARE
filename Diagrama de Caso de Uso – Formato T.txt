@@ -1,5 +1,10 @@
 1
-indentificação
+
+IDENTIFICAÇÃO
+Diagrama de Caso de Uso – Formato Textual Expandido
+SISTEMA E-COMMERCE - LOJA DE MÓVEIS
+CSU 01
+
 Sumário: Descrição das ações do Use Case.
 Ator-Primário: Ator que inicia o processo.
 Ator-Secundário: Ator que participa do processo, mas não o inicia.
@@ -14,7 +19,12 @@ Regras de Negócios: Identificação de todas as regras de negócio que podem in
 no Use Case.
 -------------------------------------------------------------------------------------------------------------------------
 2
-atualizar os dados
+
+ATUALIZAR OS DADOS
+Diagrama de Caso de Uso – Formato Textual Expandido
+SISTEMA E-COMMERCE - LOJA DE MÓVEIS
+CSU 02
+
 Sumário: Descrição das ações do Use Case.
 Ator-Primário: Ator que inicia o processo.
 Ator-Secundário: Ator que participa do processo, mas não o inicia.
@@ -29,9 +39,9 @@ Regras de Negócios: Identificação de todas as regras de negócio que podem in
 no Use Case.
 -------------------------------------------------------------------------------------------------------------------------
 3
-visualizar os produtos
-Diagrama de Caso de Uso – Formato Textual Expandido
 
+VISUALIZAR OS PRODUTOS
+Diagrama de Caso de Uso – Formato Textual Expandido
 SISTEMA E-COMMERCE - LOJA DE MÓVEIS
 
 CSU 03 – VISUALIZAR OS PRODUTOS 
@@ -71,5 +81,6 @@ Pós-Condição:
 Regras de Negócios: Identificação de todas as regras de negócio que podem interferir no Use Case.
 
 -------------------------------------------------------------------------------------------------------------------------
+
 
 
